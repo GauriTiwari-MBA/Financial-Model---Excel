@@ -13,3 +13,8 @@ Key Highlights
 - Organized and audited formulas for clarity
 - Conditional formatting and color coding for better readability
 - Structured workflow with dynamic, updateable calculations
+
+  Snapshot of the Model:
+  https://github.com/GauriTiwari-MBA/Financial-Model---Excel/blob/main/Snapshot%20of%20Financial%20Model.png
+
+  Link of the Model: 
