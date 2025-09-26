@@ -15,7 +15,7 @@ Key Highlights
 - Structured workflow with dynamic, updateable calculations
 
   Snapshot of the Model:
-  https://github.com/GauriTiwari-MBA/Financial-Model---Excel/blob/main/Snapshot%20of%20Financial%20Model.png(/a)<img width="1917" height="996" alt="Snapshot of Financial Model" src="https://github.com/user-attachments/assets/7548ce75-53d1-4a2c-ad30-0a5ae25dd852" />
+  https://github.com/GauriTiwari-MBA/Financial-Model---Excel/blob/main/Snapshot%20of%20Financial%20Model.png</a><img width="1917" height="996" alt="Snapshot of Financial Model" src="https://github.com/user-attachments/assets/7548ce75-53d1-4a2c-ad30-0a5ae25dd852" />
 
 
   Link of the Model: 
